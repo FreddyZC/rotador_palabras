@@ -1,0 +1,53 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Jun 23 19:36:35 2021
+[*]
+[dumpfile] "/home/darkgambler/Documentos/ACTUALES/1.DIGITALES2/TAREAS/TAREA07/VERILOG/SIMULACIONES/BUSSIZE64WORDSIZE8/000graf.vcd"
+[dumpfile_mtime] "Wed Jun 23 19:34:02 2021"
+[dumpfile_size] 63671
+[savefile] "/home/darkgambler/Documentos/ACTUALES/1.DIGITALES2/TAREAS/TAREA07/VERILOG/SIMULACIONES/BUSSIZE64WORDSIZE8/000INPUTSOUTPUTSBS64WS8.gtkw"
+[timestart] 0
+[size] 1133 600
+[pos] -1 -1
+*-2.042774 21 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 233
+[signals_width] 211
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@200
+-INPUTS
+@28
+testbench.PROB.clk
+testbench.PROB.reset
+@22
+testbench.PROB.data_in[63:0]
+@200
+-OUTPUTS
+@23
+[color] 7
+testbench.PROB.data_out[63:0]
+[color] 7
+testbench.PROB.control_out[7:0]
+@28
+[color] 7
+testbench.PROB.error_out
+@22
+[color] 5
+testbench.PROB.data_out_synt[63:0]
+[color] 5
+testbench.PROB.control_out_synt[7:0]
+@28
+[color] 5
+testbench.PROB.error_out_synt
+@200
+-VERIFICADOR
+@28
+[color] 1
+testbench.PROB.data_verif
+[color] 1
+testbench.PROB.control_verif
+[color] 1
+testbench.PROB.error_verif
+[pattern_trace] 1
+[pattern_trace] 0

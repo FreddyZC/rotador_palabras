@@ -1,0 +1,210 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Jun 23 19:19:42 2021
+[*]
+[dumpfile] "/home/darkgambler/Documentos/ACTUALES/1.DIGITALES2/TAREAS/TAREA07/VERILOG/SIMULACIONES/BUSSIZE50_WORDSIZE5/000graf.vcd"
+[dumpfile_mtime] "Wed Jun 23 18:53:53 2021"
+[dumpfile_size] 51372
+[savefile] "/home/darkgambler/Documentos/ACTUALES/1.DIGITALES2/TAREAS/TAREA07/VERILOG/SIMULACIONES/BUSSIZE50_WORDSIZE5/000INPUTSOUTPUTSBS50WS5.gtkw"
+[timestart] 3
+[size] 1000 600
+[pos] -1 -1
+*-2.042774 10 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 233
+[signals_width] 211
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@200
+-INPUTS
+@28
+testbench.PROB.clk
+testbench.PROB.reset
+@c00022
+testbench.PROB.data_in[49:0]
+@28
+(0)testbench.PROB.data_in[49:0]
+(1)testbench.PROB.data_in[49:0]
+(2)testbench.PROB.data_in[49:0]
+(3)testbench.PROB.data_in[49:0]
+(4)testbench.PROB.data_in[49:0]
+(5)testbench.PROB.data_in[49:0]
+(6)testbench.PROB.data_in[49:0]
+(7)testbench.PROB.data_in[49:0]
+(8)testbench.PROB.data_in[49:0]
+(9)testbench.PROB.data_in[49:0]
+(10)testbench.PROB.data_in[49:0]
+(11)testbench.PROB.data_in[49:0]
+(12)testbench.PROB.data_in[49:0]
+(13)testbench.PROB.data_in[49:0]
+(14)testbench.PROB.data_in[49:0]
+(15)testbench.PROB.data_in[49:0]
+(16)testbench.PROB.data_in[49:0]
+(17)testbench.PROB.data_in[49:0]
+(18)testbench.PROB.data_in[49:0]
+(19)testbench.PROB.data_in[49:0]
+(20)testbench.PROB.data_in[49:0]
+(21)testbench.PROB.data_in[49:0]
+(22)testbench.PROB.data_in[49:0]
+(23)testbench.PROB.data_in[49:0]
+(24)testbench.PROB.data_in[49:0]
+(25)testbench.PROB.data_in[49:0]
+(26)testbench.PROB.data_in[49:0]
+(27)testbench.PROB.data_in[49:0]
+(28)testbench.PROB.data_in[49:0]
+(29)testbench.PROB.data_in[49:0]
+(30)testbench.PROB.data_in[49:0]
+(31)testbench.PROB.data_in[49:0]
+(32)testbench.PROB.data_in[49:0]
+(33)testbench.PROB.data_in[49:0]
+(34)testbench.PROB.data_in[49:0]
+(35)testbench.PROB.data_in[49:0]
+(36)testbench.PROB.data_in[49:0]
+(37)testbench.PROB.data_in[49:0]
+(38)testbench.PROB.data_in[49:0]
+(39)testbench.PROB.data_in[49:0]
+(40)testbench.PROB.data_in[49:0]
+(41)testbench.PROB.data_in[49:0]
+(42)testbench.PROB.data_in[49:0]
+(43)testbench.PROB.data_in[49:0]
+(44)testbench.PROB.data_in[49:0]
+(45)testbench.PROB.data_in[49:0]
+(46)testbench.PROB.data_in[49:0]
+(47)testbench.PROB.data_in[49:0]
+(48)testbench.PROB.data_in[49:0]
+(49)testbench.PROB.data_in[49:0]
+@1401200
+-group_end
+@200
+-OUTPUTS
+@c00023
+[color] 7
+testbench.PROB.data_out[49:0]
+@28
+[color] 7
+(0)testbench.PROB.data_out[49:0]
+[color] 7
+(1)testbench.PROB.data_out[49:0]
+[color] 7
+(2)testbench.PROB.data_out[49:0]
+[color] 7
+(3)testbench.PROB.data_out[49:0]
+[color] 7
+(4)testbench.PROB.data_out[49:0]
+[color] 7
+(5)testbench.PROB.data_out[49:0]
+[color] 7
+(6)testbench.PROB.data_out[49:0]
+[color] 7
+(7)testbench.PROB.data_out[49:0]
+[color] 7
+(8)testbench.PROB.data_out[49:0]
+[color] 7
+(9)testbench.PROB.data_out[49:0]
+[color] 7
+(10)testbench.PROB.data_out[49:0]
+[color] 7
+(11)testbench.PROB.data_out[49:0]
+[color] 7
+(12)testbench.PROB.data_out[49:0]
+[color] 7
+(13)testbench.PROB.data_out[49:0]
+[color] 7
+(14)testbench.PROB.data_out[49:0]
+[color] 7
+(15)testbench.PROB.data_out[49:0]
+[color] 7
+(16)testbench.PROB.data_out[49:0]
+[color] 7
+(17)testbench.PROB.data_out[49:0]
+[color] 7
+(18)testbench.PROB.data_out[49:0]
+[color] 7
+(19)testbench.PROB.data_out[49:0]
+[color] 7
+(20)testbench.PROB.data_out[49:0]
+[color] 7
+(21)testbench.PROB.data_out[49:0]
+[color] 7
+(22)testbench.PROB.data_out[49:0]
+[color] 7
+(23)testbench.PROB.data_out[49:0]
+[color] 7
+(24)testbench.PROB.data_out[49:0]
+[color] 7
+(25)testbench.PROB.data_out[49:0]
+[color] 7
+(26)testbench.PROB.data_out[49:0]
+[color] 7
+(27)testbench.PROB.data_out[49:0]
+[color] 7
+(28)testbench.PROB.data_out[49:0]
+[color] 7
+(29)testbench.PROB.data_out[49:0]
+[color] 7
+(30)testbench.PROB.data_out[49:0]
+[color] 7
+(31)testbench.PROB.data_out[49:0]
+[color] 7
+(32)testbench.PROB.data_out[49:0]
+[color] 7
+(33)testbench.PROB.data_out[49:0]
+[color] 7
+(34)testbench.PROB.data_out[49:0]
+[color] 7
+(35)testbench.PROB.data_out[49:0]
+[color] 7
+(36)testbench.PROB.data_out[49:0]
+[color] 7
+(37)testbench.PROB.data_out[49:0]
+[color] 7
+(38)testbench.PROB.data_out[49:0]
+[color] 7
+(39)testbench.PROB.data_out[49:0]
+[color] 7
+(40)testbench.PROB.data_out[49:0]
+[color] 7
+(41)testbench.PROB.data_out[49:0]
+[color] 7
+(42)testbench.PROB.data_out[49:0]
+[color] 7
+(43)testbench.PROB.data_out[49:0]
+[color] 7
+(44)testbench.PROB.data_out[49:0]
+[color] 7
+(45)testbench.PROB.data_out[49:0]
+[color] 7
+(46)testbench.PROB.data_out[49:0]
+[color] 7
+(47)testbench.PROB.data_out[49:0]
+[color] 7
+(48)testbench.PROB.data_out[49:0]
+[color] 7
+(49)testbench.PROB.data_out[49:0]
+@1401201
+-group_end
+@22
+[color] 7
+testbench.PROB.control_out[9:0]
+@28
+[color] 7
+testbench.PROB.error_out
+@22
+[color] 5
+testbench.PROB.data_out_synt[49:0]
+[color] 5
+testbench.PROB.control_out_synt[9:0]
+@28
+[color] 5
+testbench.PROB.error_out_synt
+@200
+-VERIFICADOR
+@28
+[color] 1
+testbench.PROB.control_verif
+[color] 1
+testbench.PROB.data_verif
+[color] 1
+testbench.PROB.error_verif
+[pattern_trace] 1
+[pattern_trace] 0
