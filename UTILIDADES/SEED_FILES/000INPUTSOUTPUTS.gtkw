@@ -1,0 +1,76 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Jun 23 07:59:34 2021
+[*]
+[dumpfile] "/home/darkgambler/Documentos/ACTUALES/1.DIGITALES2/TAREAS/TAREA07/VERILOG/000graf.vcd"
+[dumpfile_mtime] "Wed Jun 23 07:56:30 2021"
+[dumpfile_size] 37380
+[savefile] "/home/darkgambler/Documentos/ACTUALES/1.DIGITALES2/TAREAS/TAREA07/VERILOG/000INPUTSOUTPUTS.gtkw"
+[timestart] 10
+[size] 1000 600
+[pos] -1 -1
+*-2.042774 12 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 233
+[signals_width] 211
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@200
+-INPUTS
+@28
+testbench.PROB.clk
+testbench.PROB.reset
+@22
+testbench.COND.data_in[31:0]
+@201
+-OUTPUTS
+@c00022
+[color] 7
+testbench.COND.control_out[7:0]
+@28
+(0)testbench.COND.control_out[7:0]
+(1)testbench.COND.control_out[7:0]
+(2)testbench.COND.control_out[7:0]
+(3)testbench.COND.control_out[7:0]
+(4)testbench.COND.control_out[7:0]
+(5)testbench.COND.control_out[7:0]
+(6)testbench.COND.control_out[7:0]
+(7)testbench.COND.control_out[7:0]
+@1401200
+-group_end
+@22
+[color] 7
+testbench.COND.data_out[31:0]
+@28
+[color] 7
+testbench.COND.error_out
+@c00022
+[color] 5
+testbench.SYNT.control_out_synt[7:0]
+@28
+[color] 5
+(0)testbench.SYNT.control_out_synt[7:0]
+[color] 5
+(1)testbench.SYNT.control_out_synt[7:0]
+[color] 5
+(2)testbench.SYNT.control_out_synt[7:0]
+[color] 5
+(3)testbench.SYNT.control_out_synt[7:0]
+[color] 5
+(4)testbench.SYNT.control_out_synt[7:0]
+[color] 5
+(5)testbench.SYNT.control_out_synt[7:0]
+[color] 5
+(6)testbench.SYNT.control_out_synt[7:0]
+[color] 5
+(7)testbench.SYNT.control_out_synt[7:0]
+@1401200
+-group_end
+@22
+[color] 5
+testbench.SYNT.data_out_synt[31:0]
+@28
+[color] 5
+testbench.SYNT.error_out_synt
+[pattern_trace] 1
+[pattern_trace] 0

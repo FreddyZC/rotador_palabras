@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Jun 23 08:07:17 2021
+[*]
+[dumpfile] "/home/darkgambler/Documentos/ACTUALES/1.DIGITALES2/TAREAS/TAREA07/VERILOG/000graf.vcd"
+[dumpfile_mtime] "Wed Jun 23 07:56:30 2021"
+[dumpfile_size] 37380
+[savefile] "/home/darkgambler/Documentos/ACTUALES/1.DIGITALES2/TAREAS/TAREA07/VERILOG/000STATEMACHINE.gtkw"
+[timestart] 3
+[size] 1000 600
+[pos] 14 -42
+*-2.945683 7 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 233
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+testbench.COND.clk
+testbench.PROB.reset
+@22
+testbench.PROB.data_in[31:0]
+[color] 7
+testbench.COND.next_state[4:0]
+[color] 7
+testbench.COND.state[4:0]
+@28
+[color] 7
+testbench.COND.next_error_out
+[color] 7
+testbench.COND.error_out
+@23
+[color] 5
+testbench.SYNT.next_state[4:0]
+[color] 5
+testbench.SYNT.state[4:0]
+@29
+[color] 5
+testbench.SYNT.next_error_out_synt
+[color] 5
+testbench.SYNT.error_out_synt
+[pattern_trace] 1
+[pattern_trace] 0
